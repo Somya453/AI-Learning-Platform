@@ -1,6 +1,8 @@
 # AI-Learning-Platform
 An AI based Learning Platform
 # 🤖✨ AI LearnPro — Smart Study & AI Learning Platform
+Here's the link:
+https://enchanting-fudge-385d3e.netlify.app/
 
 > *Learn smarter, not harder. A gamified AI-powered learning experience built for modern students.*
 
