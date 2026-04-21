@@ -1,6 +1,10 @@
 # AI-Learning-Platform
 An AI based Learning Platform
 # 🤖✨ AI LearnPro — Smart Study & AI Learning Platform
+
+---
+
+## 🔗 Live Demo
 Here's the link:
 https://spontaneous-selkie-6972da.netlify.app/
 
@@ -61,5 +65,3 @@ Students can:
 - AI-ready architecture
 
 ---
-
-
